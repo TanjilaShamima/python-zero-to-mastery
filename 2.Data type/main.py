@@ -35,3 +35,32 @@ print(f"Set example: {set_example}, Type: {type(set_example)}")
 # NoneType
 none_example = None
 print(f"NoneType example: {none_example}, Type: {type(none_example)}")
+
+
+# Binary type data structure and example
+# Binary
+binary_example = b"Hello, World!"
+print(f"Binary example: {binary_example}, Type: {type(binary_example)}")
+# Memory View
+memory_view_example = memoryview(bytes(5))
+print(f"Memory View example: {memory_view_example}, Type: {type(memory_view_example)}")
+# Bytearray
+bytearray_example = bytearray(5)
+print(f"Bytearray example: {bytearray_example}, Type: {type(bytearray_example)}")
+# Frozenset
+frozenset_example = frozenset([1, 2, 3, 4, 5])
+print(f"Frozenset example: {frozenset_example}, Type: {type(frozenset_example)}")
+# Complex
+complex_example = 1 + 2j
+print(f"Complex example: {complex_example}, Type: {type(complex_example)}")
+# Range
+range_example = range(5)
+print(f"Range example: {list(range_example)}, Type: {type(range_example)}")
+# Slice
+slice_example = slice(1, 5)
+print(f"Slice example: {slice_example}, Type: {type(slice_example)}")
+# Memory
+# Memory example (not a built-in type, but a concept)
+
+
+# Bite data range example
