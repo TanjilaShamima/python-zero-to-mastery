@@ -36,3 +36,8 @@
 #
 # Exponentiation
 # exponentiation = a ** b
+# a = 3
+# b = 5
+# exponentiation = a ** b
+# result = 3 ** 5
+# 3 * 3 * 3 * 3 * 3
